@@ -1,6 +1,6 @@
 一键式部署 ChatGPT 私有代理，由 Next.js 驱动
 
-简体中文 | [English](./README.md)
+原作者[imyuanx](https://github.com/imyuanx/chatgpt-proxy)
 
 ## 简介
 
